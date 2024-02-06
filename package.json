@@ -1,0 +1,48 @@
+{
+  "name": "dev-blogs-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tiptap/extension-image": "^2.0.4",
+    "@tiptap/extension-link": "^2.0.4",
+    "@tiptap/extension-placeholder": "^2.0.4",
+    "@tiptap/extension-underline": "^2.0.4",
+    "@tiptap/extension-youtube": "^2.0.4",
+    "@tiptap/pm": "^2.0.4",
+    "@tiptap/react": "^2.0.4",
+    "@tiptap/starter-kit": "^2.0.4",
+    "@types/dateformat": "^5.0.0",
+    "@types/formidable": "^3.4.1",
+    "@types/node": "20.4.8",
+    "@types/react": "18.2.18",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "classnames": "^2.3.2",
+    "cloudinary": "^1.40.0",
+    "dateformat": "^5.0.3",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "formidable": "^3.5.0",
+    "joi": "^17.9.2",
+    "mongoose": "^7.4.3",
+    "next": "13.4.12",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "slugify": "^1.6.6",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9"
+  }
+}
